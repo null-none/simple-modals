@@ -1,0 +1,15 @@
+{
+  "name": "simple-modals",
+  "version": "1.0.0",
+  "description": "Simple, dependency free javascript modal",
+  "files": [
+    "modal.min.css",
+    "modal.min.js"
+  ],
+  "keywords": [
+    "css",
+    "js",
+    "modal"
+  ],
+  "license": "MIT",
+}
